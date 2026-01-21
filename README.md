@@ -148,7 +148,6 @@ Example:
 🙋‍♀️ Author Sharadha Kattalingannagari 📧 sharadhakattalingannagari@gmail.com 🔗 LinkedIn : https://www.linkedin.com/in/sharadha-kattalingannagari-992a4730a
 
 ---
-https://roadmap.sh/projects/task-tracker
 
 ## 📄 License
 
